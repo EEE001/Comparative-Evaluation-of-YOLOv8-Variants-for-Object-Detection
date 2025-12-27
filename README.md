@@ -18,9 +18,8 @@ The analysis focuses on **object-scale sensitivity**, **data-split generalizatio
   - Test: ~399 images
 
 Directory structure used:
-data/
-images/{train,val,test}
-labels/{train,val,test}
+data/images/{train,val,test}
+data/labels/{train,val,test}
 
 
 ---
